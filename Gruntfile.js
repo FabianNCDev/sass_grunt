@@ -4,10 +4,10 @@ module.exports=(grunt)=>{
         dist:{
           options:{
             style:'expanded'
+          },
+          files:{
+            'css/main.css':'build/styles/main.scss'
           }
-        },
-        files:{
-          'css/main.css':'build/styles/main.scss'
         }
       }
   });

@@ -1,3 +1,6 @@
+this is a super basic configuration.
+##Installation
+`npm install `
 #sass
 `sass input.scss output.scss`
 
